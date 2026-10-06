@@ -3,13 +3,12 @@
   
   hector naiz sisa klasean nago nire eskuman iker dago nire ezkerran iñaki dago
   
-
-  ## zenbakiak
+## zenbakiak
 - bat bi hiru
 - lau bost sei
 - zazpi zortzi bederatzi
 
-## hirurak 
+## hirurak
 
 | iñaki | hector | iker |
 |-------|--------|------|

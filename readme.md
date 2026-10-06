@@ -2,7 +2,6 @@
   
   hector naiz sisa klasean nago nire eskuman iker dago nire ezkerran iñaki dago
   
-
 ## zenbakiak
 - bat bi hiru
 - lau bost sei
