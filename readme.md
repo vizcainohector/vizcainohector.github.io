@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Hector-index.md
   
   hector naiz sisa klasean nago nire eskuman iker dago nire ezkerran iñaki dago
@@ -18,5 +17,3 @@
  Ermua  |Eibar   |Bergara |
  entrenador|brawl stars |pirata |
  
-=======
->>>>>>> Stashed changes
